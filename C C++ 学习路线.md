@@ -14,7 +14,9 @@
 
 ​		STL：《C++标准程序库》《深度探索C++对象模型》
 
-**基础四大间：**				
+
+
+**基础四大件：**				
 
 1）数据结构与算法：
 
@@ -59,4 +61,10 @@
 ​		**《Unix环境高级编程》**、《Linux高性能服务器编程》、《POSIX多线程程序设计》		
 
 
+
+**参考：**
+
+[CodeSheep的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/384068749/?spm_id_from=333.999.0.0)
+
+https://www.bilibili.com/video/BV1ob411m76i/?spm_id_from=333.999.0.0
 
